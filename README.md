@@ -212,3 +212,4 @@ docker exec my-mysql cat /var/lib/mysql/ee5875b312e4.log
 ```shell
 docker cp my-mysql:/var/lib/mysql/ee5875b312e4.log ./my_actions.log
 ```
+<img width="1879" height="1182" alt="image" src="https://github.com/user-attachments/assets/adfeff72-00ac-4813-a822-5135ef65736e" />
